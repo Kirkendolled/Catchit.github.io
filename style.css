@@ -1,0 +1,18 @@
+.button {
+    transition: all 0.3s ease;
+    height: 40px;
+    background: blue;
+    border: 0px;
+    border-radius: 10px;
+  }
+
+.button1 {font-size: 10px;}
+.button2 {font-size: 12px;}
+.button3 {font-size: 16px;}
+.button4 {font-size: 20px;}
+.button5 {font-size: 24px;}
+
+.movebtn {
+    padding: 100%;
+    color: white;
+}
