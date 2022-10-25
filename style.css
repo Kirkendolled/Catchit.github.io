@@ -1,11 +1,12 @@
-body {
-  background-color: #001858;
+.button {
+  background-color: #055a08; /* Green */
+  border: none;
+  color: rgb(235, 143, 6);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 
-.button {
-    transition: all 0.3s ease;
-    height: 40px;
-    background: #f582ae;
-    border: 0px;
-    border-radius: 10px;
-  }
